@@ -57,10 +57,8 @@ while chances != 0:                                                 ##while loop
 
 
 
-                             ##while loop = yeh pehle condition ko check karta hain or fir instruction deta hain .loop code ko jab tak execute kare jab tak condation false na aa jaye 
+                             ##while loop = yeh pehle condition ko check karta hain or fir instruction deta hain .loop code ko jab tak execute karta jab tak condation false na aa jaye 
                                              
                                             
 
-''' f = it is a way to format your string that is more readable and fast. 
-The f or F in front of strings tell Python to look at the values inside {} and
- substitute them with the variables values if exists'''
+
