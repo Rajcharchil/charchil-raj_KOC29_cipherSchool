@@ -9,7 +9,7 @@ while chances != 0:                                                 ##while loop
     if user_pin != pin:
         chances -= 1                                                 ## if you  enter wrong pin then your chance will reduce by 1
         print("worng pin number ")                                     ##  you enter right pin then move Else condition  
-        print(f"you have {chances} chances left")                      ## 'f' is use for formate purpose {} 
+        print(f"you have {chances} chances left")                      ## 'f' is use for format purpose {} 
 
     
        
